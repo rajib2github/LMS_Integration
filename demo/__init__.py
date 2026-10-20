@@ -1,0 +1,1 @@
+"""Student Assist demo application."""
